@@ -1,4 +1,4 @@
-# GenAI-DeepLearning-LDA-ENA
+# GenAI-LDA-ENA
 LDA analysis code and visualization results for GenAI-supported deep learning study.
 本仓库提供论文《GenAI 对学生深度学习的影响：基于认知网络和主题模型的分析》中部分分析材料，主要包括 LDA 主题模型分析代码和 LDA 可视化结果文件。
 
